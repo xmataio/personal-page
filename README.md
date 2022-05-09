@@ -18,7 +18,7 @@ I originally started out college as a Computer Engineering major, only to find o
 it just wasn't for me in the Fall of my Sophomore year.
 
 Switching to Computer Science has been one of the best decisions I've made in my time at NIU.
-Programming has been a blast, and I'm eager to learn more and become a perennial prorammer!
+Programming has been a blast, and I'm eager to learn more and become a perennial programmer!
 
 ### The Why???
 
