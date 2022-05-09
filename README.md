@@ -44,7 +44,7 @@ The following languages listed below are ones that I've learned so far in my aca
 
 ### What I Use to Code
 
-Current: Neovim (AstroNvim on WSL)
+Current: Neovim (AstroNvim on WSL)  
 Former: VSCode (Through NIU Servers w/ SSH)
 
 When I first started out, I just followed along with DevC++, then transitioned to Nano.
