@@ -36,11 +36,11 @@ what I can do!
 ### Learned Languages
 
 The following languages listed below are ones that I've learned so far in my academic career:
-***C/C++***
-***HTML***
-***PHP***
-***SQL (MariaDB)***
-***IBM Assembler***
+***C/C++***  
+***HTML***  
+***PHP***  
+***SQL (MariaDB)***  
+***IBM Assembler***  
 
 ### What I Use to Code
 
