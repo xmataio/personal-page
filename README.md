@@ -35,7 +35,7 @@ what I can do!
 
 ### Learned Languages
 
-The following languages listed below are ones that I've learned so far in my academic career:
+The following languages listed below are ones that I've learned so far in my academic career:  
 ***C/C++***  
 ***HTML***  
 ***PHP***  
